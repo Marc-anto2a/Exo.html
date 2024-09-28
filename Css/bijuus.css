@@ -1,0 +1,51 @@
+h1 {
+  color: rgb(37, 0, 107);
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  color: rgb(255, 0, 0);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+
+img {
+  width: 50%;
+  height: 700px;
+  object-fit: cover;
+}
+
+ol {
+  font-size: 28px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.video-container {
+  display: flex;
+  width: auto;
+  height: auto;
+}
+
+.styled-video {
+  width: 50%;
+  height: 600px;
+}
+
+.explication {
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  width: 400px;
+  margin-left: 10%;
+  align-content: center;
+}
+body {
+  background-color: #fa6800e7;
+}

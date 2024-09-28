@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  text-align: center;
+  display: inline-block;
+  object-fit: cover;
+}
+
+h1 {
+  color: rgb(255, 0, 0);
+  font-size: 40px;
+}
+h2 {
+  color: rgb(255, 0, 255);
+  font-size: 35px;
+}
+img {
+  max-width: 100%;
+  height: 250px;
+  margin: 5px 0;
+}
+li {
+  list-style-type: disc;
+  margin-left: 20px;
+  font-size: 25px;
+}
+p {
+  font-size: 30px;
+  color: rgb(48, 48, 139);
+}
+img {
+  height: 450px;
+  width: 700px;
+  margin: 5px;
+}
