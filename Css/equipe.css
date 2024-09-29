@@ -33,3 +33,16 @@ img {
   width: 700px;
   margin: 5px;
 }
+.Tourner {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.gauche {
+  font-size: 40px;
+}
+.droite {
+  font-size: 40px;
+  margin-right: 10px;
+}

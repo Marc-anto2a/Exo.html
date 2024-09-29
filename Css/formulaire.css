@@ -1,4 +1,4 @@
-body {
+.body {
   text-align: center;
   display: flex;
   justify-content: center;
@@ -41,4 +41,16 @@ button {
   cursor: pointer;
   width: 100%;
   margin-left: 12px;
+}
+.Tourner {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.gauche {
+  font-size: 40px;
+}
+.droite {
+  font-size: 40px;
 }
